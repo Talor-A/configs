@@ -1,9 +1,9 @@
-favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=
-button-title=Applications Menu
+favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,inkscape.desktop,android-studio.desktop,mousepad.desktop
+recent=DockX.desktop,android-studio.desktop,mousepad.desktop,xfburn.desktop,globaltime.desktop,inkscape.desktop,exo-file-manager.desktop,exo-web-browser.desktop
+button-title=\ \ 
 button-icon=/home/ta/.config/menuicon.png
-show-button-title=false
-show-button-icon=true
+show-button-title=true
+show-button-icon=false
 launcher-show-name=true
 launcher-show-description=true
 item-icon-size=2
