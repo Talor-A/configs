@@ -1,2 +1,0 @@
-# configs
-ubuntu .confg files
