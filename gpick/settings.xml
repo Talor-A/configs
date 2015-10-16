@@ -35,14 +35,14 @@
 <open type="dynv">
 <path type="string">/home/ta/.config/inkscape/palettes</path>
 </open>
-<paned_position type="int32">461</paned_position>
+<paned_position type="int32">466</paned_position>
 <secondary_color_source type="string"></secondary_color_source>
 <vertical_paned_position type="int32">0</vertical_paned_position>
 <window type="dynv">
 <height type="int32">743</height>
 <width type="int32">681</width>
-<x type="int32">0</x>
-<y type="int32">0</y>
+<x type="int32">263</x>
+<y type="int32">1</y>
 </window>
 </main>
 <picker type="dynv">
@@ -52,7 +52,7 @@
 <expander type="dynv">
 <cmyk type="bool">false</cmyk>
 <hsl type="bool">false</hsl>
-<hsv type="bool">false</hsv>
+<hsv type="bool">true</hsv>
 <info type="bool">false</info>
 <lab type="bool">false</lab>
 <lch type="bool">false</lch>
@@ -64,19 +64,38 @@
 <oversample type="int32">0</oversample>
 </sampler>
 <swatch type="dynv">
-<active_color type="int32">6</active_color>
-<color1 type="color">0.133333 0.203922 0.262745 4.57202e-41</color1>
-<color2 type="color">0.266667 0.25098 0.317647 4.57202e-41</color2>
-<color3 type="color">0.458824 0.423529 0.517647 4.57202e-41</color3>
+<active_color type="int32">3</active_color>
+<color1 type="color">0.0313726 0.0901961 0.164706 4.57342e-41</color1>
+<color2 type="color">0.0627451 0.109804 0.192157 4.57342e-41</color2>
+<color3 type="color">0.116426 0.116426 0.116426 0</color3>
 <color4 type="color">0.619608 0.423529 0.541176 4.57202e-41</color4>
 <color5 type="color">0.717647 0.537255 0.690196 4.57202e-41</color5>
-<color6 type="color">0.0627451 0.337255 0.364706 4.57202e-41</color6>
+<color6 type="color">0.0313726 0.0901961 0.164706 4.57342e-41</color6>
 </swatch>
 <zoom type="float">20</zoom>
 <zoom_size type="int32">150</zoom_size>
 </picker>
 <recent type="dynv">
-<files type="string">/home/ta/.config/inkscape/palettes/terra.gpl</files>
+<files type="string" list="true"><li>/home/ta/.config/inkscape/palettes/skyway.gpl</li><li>/home/ta/.config/inkscape/palettes/terra.gpl</li></files>
 </recent>
+<tools type="dynv">
+<palette_from_image type="dynv">
+<colors type="int32">3</colors>
+<current_folder type="string">/home/ta/git/talor-a.github.io/img</current_folder>
+<filter type="string">all_images</filter>
+<show_preview type="bool">true</show_preview>
+<window type="dynv">
+<height type="int32">265</height>
+<width type="int32">190</width>
+</window>
+</palette_from_image>
+</tools>
+<variations type="dynv">
+<show_preview type="bool">true</show_preview>
+<window type="dynv">
+<height type="int32">244</height>
+<width type="int32">294</width>
+</window>
+</variations>
 </gpick>
 </root>

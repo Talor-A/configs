@@ -20,7 +20,6 @@
         <value type="uint" value="65535"/>
       </property>
       <property name="plugin-ids" type="array">
-        <value type="int" value="1"/>
         <value type="int" value="4"/>
         <value type="int" value="3"/>
         <value type="int" value="7"/>
@@ -32,7 +31,6 @@
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="whiskermenu"/>
     <property name="plugin-3" type="string" value="clock">
       <property name="digital-format" type="string" value="%I:%M %p"/>
       <property name="mode" type="uint" value="3"/>

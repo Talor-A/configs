@@ -13,7 +13,7 @@
        state="1" />
     <group
        id="commands"
-       state="0" />
+       state="1" />
     <group
        id="snaptoolbox"
        state="1" />
@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="744.094482421875"
-         height="1052.3621826171875"
+         width="339.22897338867188"
+         height="227.57322692871094"
          rx="0"
          ry="0" />
       <eventcontext
@@ -331,9 +331,9 @@
        gradientdrag="1"
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Rude Cookie Blok;font-style:normal;font-weight:normal;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Rude Cookie Blok;font-stretch:normal;font-variant:normal"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
        selcue="1"
-       align_mode="0" />
+       align_mode="1" />
     <eventcontext
        id="nodes"
        selcue="1"
@@ -527,7 +527,7 @@
   </group>
   <group
      id="colorselector"
-     page="1" />
+     page="0" />
   <group
      id="embedded">
     <group
@@ -536,7 +536,7 @@
        panel_mode="1"
        panel_ratio="100"
        panel_wrap="0"
-       palette="terra.gpl" />
+       palette="Inkscape default" />
   </group>
   <group
      id="dialogs">
@@ -550,20 +550,11 @@
        panel_wrap="0"
        x="0"
        y="0"
-       w="342"
+       w="339"
        h="423"
        state="2" />
     <group
-       id="filtereffects"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       state="1"
-       x="805"
-       y="0"
-       w="555"
-       h="580" />
+       id="filtereffects" />
     <group
        id="textandfont" />
     <group
@@ -576,12 +567,12 @@
        panel_mode="1"
        panel_wrap="0"
        align-to="4"
-       state="2"
+       sel-as-groups="1"
        x="0"
        y="0"
-       w="391"
-       h="602"
-       sel-as-groups="1" />
+       w="339"
+       h="389"
+       state="2" />
     <group
        id="xml" />
     <group
@@ -594,24 +585,12 @@
        ignorenumbers="1" />
     <group
        id="documentoptions"
-       state="1"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       x="669"
-       y="0"
-       w="423"
-       h="503" />
+       state="1" />
     <group
        id="preferences"
        state="1" />
     <group
-       id="gradienteditor"
-       x="554"
-       y="178"
-       w="257"
-       h="412" />
+       id="gradienteditor" />
     <group
        id="object" />
     <group
@@ -621,21 +600,21 @@
        path=""
        x="0"
        y="0"
-       w="359"
-       h="401">
+       w="356"
+       h="408">
       <group
          id="exportarea"
-         value="selection" />
+         value="drawing" />
       <group
          id="defaultxdpi"
-         value="107.30000305175781" />
+         value="90" />
     </group>
     <group
        id="save_as"
-       default="org.inkscape.output.pdf.cairorenderer"
+       default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/ta/Downloads"
+       path=""
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -646,7 +625,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/ta/" />
+       path="" />
     <group
        id="import"
        enable_preview="1"
@@ -675,16 +654,7 @@
        id="treeeditor" />
     <group
        id="layers"
-       maxDepth="20"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       x="0"
-       y="0"
-       w="232"
-       h="254"
-       state="2" />
+       maxDepth="20" />
     <group
        id="extensioneditor" />
     <group
@@ -978,16 +948,13 @@
        numthreads="1" />
   </group>
   <group
-     id="extensions"
-     org.inkscape.output.pdf.cairorenderer.PDFversion="PDF-1.5"
-     org.inkscape.output.pdf.cairorenderer.resolution="90"
-     org.inkscape.output.pdf.cairorenderer.textToPath="1" />
+     id="extensions" />
   <group
      id="desktop"
-     style="text-anchor:start;text-align:start;font-size:32px;-inkscape-font-specification:Moon Flower Bold;font-family:Moon Flower;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#10565d;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round">
+     style="fill:#87deaa;fill-opacity:1;-inkscape-font-specification:Big John Bold;font-family:Big John;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:144px;text-anchor:middle;text-align:center;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
     <group
-       width="681"
-       height="743"
+       width="683"
+       height="744"
        x="0"
        y="0"
        fullscreen="0"

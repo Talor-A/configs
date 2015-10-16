@@ -19,6 +19,7 @@
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open-with-other-in-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/detach-tab" "")
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open-in-new-tab" "<Primary><Shift>p")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/456c699c928ae10fbadf7127c921b163" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-name" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-menubar" "<Primary>m")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/back" "<Alt>Left")

@@ -21,7 +21,9 @@ FontName=Fira Mono for Powerline 11
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 BackgroundDarkness=0.800000
 Encoding=UTF-8
-ColorPalette=#000000000000;#cccc00000000;#4e4e9a9a0606;#d467bce15454;#34346565a4a4;#757550507b7b;#060698989a9a;#d3d3d7d7cfcf;#555557575353;#efef29292929;#8a8ae2e23434;#e744d9b26bb4;#73739f9fcfcf;#adad7f7fa8a8;#3434e2e2e2e2;#eeeeeeeeecec
-ColorBackground=#000000000000
-ColorCursor=#ffffffffffff
+TitleMode=TERMINAL_TITLE_HIDE
+ColorCursor=#f8f8f2
+ColorForeground=#f8f8f2
+ColorBackground=#242424
+ColorPalette=#272822;#f92672;#a6e22e;#f4bf75;#66d9ef;#ae81ff;#a1efe4;#f8f8f2;#75715e;#f92672;#a6e22e;#f4bf75;#66d9ef;#ae81ff;#a1efe4;#f9f8f5
 
