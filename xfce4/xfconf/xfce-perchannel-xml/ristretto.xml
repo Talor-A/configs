@@ -5,13 +5,16 @@
     <property name="navigationbar" type="empty">
       <property name="position" type="string" value="left"/>
     </property>
-    <property name="height" type="uint" value="514"/>
-    <property name="width" type="uint" value="796"/>
+    <property name="height" type="uint" value="397"/>
+    <property name="width" type="uint" value="409"/>
     <property name="toolbar" type="empty">
       <property name="show" type="bool" value="false"/>
     </property>
     <property name="thumbnails" type="empty">
       <property name="show" type="bool" value="false"/>
     </property>
+  </property>
+  <property name="file" type="empty">
+    <property name="current-uri" type="string" value="file:///home/ta/Downloads"/>
   </property>
 </channel>

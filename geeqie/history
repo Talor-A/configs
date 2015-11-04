@@ -1,0 +1,16 @@
+#History lists
+
+[path_list]
+"/home/ta/.thumbnails/large"
+"/home/ta/.thumbnails"
+"/home/ta"
+"/home/ta/.config/walls"
+"/home/ta/Sifonn_Basic"
+"/home/ta/Downloads"
+
+[sort_manager]
+"Home[path]/home/ta"
+"Desktop[path]/home/ta/Desktop"
+"Collections[path]/home/ta/.local/share/geeqie/collections"
+
+#end
