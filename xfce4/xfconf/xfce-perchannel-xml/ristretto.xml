@@ -13,6 +13,9 @@
     <property name="thumbnails" type="empty">
       <property name="show" type="bool" value="false"/>
     </property>
+    <property name="statusbar" type="empty">
+      <property name="show" type="bool" value="false"/>
+    </property>
   </property>
   <property name="file" type="empty">
     <property name="current-uri" type="string" value="file:///home/ta/Downloads"/>
